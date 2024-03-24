@@ -1,9 +1,18 @@
-### Greetings Chefs! 👋
+### Greetings Chefs! 👋&#127997;
 
 <!--
 **chrisquintos/chrisquintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-About me:
+🙋&#127997;About me:
+
+I'm a student from 🌅 California. 
+  <ul>
+  <li>I'm new to coding and I have a love/hate relationship with it. 😅 </li>
+  <li>When I'm not learning, I'm playing music in my bedroom. ♫ </li>
+    
+  </ul>
+
+
 
 Join on me on my journey learning how to code! 
 

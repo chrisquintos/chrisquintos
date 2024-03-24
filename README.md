@@ -16,11 +16,12 @@ I'm a student from 🌅 California.
   <li>When I'm not learning, I'm playing music in my bedroom. ♫ </li>
     
   </ul>
+Find me here: 
+<a href="https://www.linkedin.com/in/chris-quintos-1a2535122/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="25" height="25" />
+</a>
 
-
-
-Join on me on my journey learning how to code! 
-
+<p>Join on me on my journey learning how to code! </p>
 
 
 

@@ -3,8 +3,16 @@
 <!--
 **chrisquintos/chrisquintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Chris Quintos is creator, musician, and visionary based in Orange County California. With an innate passion for artistic expression, Chris seamlessly blends his creative talents to craft captivating experiences across various mediums. Whether manifesting his ideas through visual art, innovative projects, or immersive experiences, he continually pushes the boundaries of conventional creativity, inviting audiences to explore new realms of possibility.
+About me:
 
-Chris pulls inspiration from his travels around the world in hopes to create an experience for everyone to enjoy. 
+Join on me on my journey learning how to code! 
 
 
+
+
+
+
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisquintos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
